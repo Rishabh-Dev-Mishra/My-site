@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(182, 243, 222);
+    margin: 0;
+    text-align: center;
+}
+
+div{
+    /* background-color: rgb(182, 213, 219); */
+    margin: 0;
+    padding: 0;
+}
+.code-skill-decoration{
+    clear: left;
+}
+.skill-descrition{
+  clear: right;  
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+h1{
+    color: rgb(85, 10, 10);
+    font-family: cursive;
+}
+img{
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    /* position: relative; */
+    top: 60px;
+}
+p{
+    /* padding: 10px; */
+    font-family: cursive;
+    color: rgb(125, 32, 15);
+}
+.a , .b{
+    width: 25%;
+    float: left;
+    margin: 30px;
+}
+.b{
+    float: right;
+}
+/* *{
+    margin: 20px;
+} */
